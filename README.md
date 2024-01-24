@@ -10,7 +10,9 @@ Used elements:
 
 # Diagrams
 Indoor:
+
 ![image](https://github.com/kosmolub01/Weather-station/assets/72302279/7443d68b-e050-4048-a843-416a34a5e73f)
 
 Outdoor:
+
 ![image](https://github.com/kosmolub01/Weather-station/assets/72302279/055d22a0-c02e-4ce9-8583-69fdc04efd69)
